@@ -2,7 +2,7 @@ machine
 
 # jc-marked
 
-markdown parser based on finite-state machine (FSM).
+Markdown AST (Abstract syntax tree) parser based on finite-state machine (FSM).
 
 By using this module, it can be used to extend the functions of the existing Markdown parser. You can also continue to develop on the basis of this module and complete the functions of the existing Markdown parser yourself.
 

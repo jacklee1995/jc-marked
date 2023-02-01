@@ -1,7 +1,7 @@
 {
   "name": "jc-marked",
-  "version": "0.0.1",
-  "description": "markdown parser based on finite-state machine (FSM).",
+  "version": "0.0.2",
+  "description": "Markdown AST (Abstract syntax tree) parser based on finite-state machine (FSM).",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
